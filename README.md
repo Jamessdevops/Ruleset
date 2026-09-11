@@ -1,11 +1,11 @@
 <div align="center">
 
 <h1 style="border-bottom: none">
-    <b>ForkReach</b><br />
+    <b>ruleset</b><br />
     Multi-AI Marketing Agent for Indie Hackers
 </h1>
 
-<img alt="ForkReach Demo" src="./demo.gif" style="width: 100%">
+<img alt="ruleset Demo" src="./demo.gif" style="width: 100%">
 
 <br/>
 <p align="center">
